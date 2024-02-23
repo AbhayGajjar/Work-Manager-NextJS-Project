@@ -1,3 +1,9 @@
-export default function UserProfile() {
-  return <h1>This is normal user proflie</h1>;
+import React from 'react'
+
+const UserProfile = () => {
+  return (
+    <div>UserProfile</div>
+  )
 }
+
+export default UserProfile
